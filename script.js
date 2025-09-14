@@ -1,0 +1,1 @@
+console.log("Welcome to Millicent Makokha’s Portfolio!");
